@@ -1,0 +1,109 @@
+//Microsoft Developer Studio generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "afxres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// Chinese (中国) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_CHS)
+#ifdef _WIN32
+LANGUAGE LANG_CHINESE, SUBLANG_CHINESE_SIMPLIFIED
+#pragma code_page(936)
+#endif //_WIN32
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "#include ""afxres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog
+//
+
+IDD_DIALOG_MAIN DIALOG DISCARDABLE  0, 0, 197, 204
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Eat letter by Drunkmars"
+FONT 12, "黑体"
+BEGIN
+    LTEXT           "Resources:",IDC_STATIC,19,21,43,12
+    EDITTEXT        IDC_EDIT1,66,19,103,15,ES_AUTOHSCROLL
+    LTEXT           "Buffer:",IDC_STATIC,19,45,31,12
+    EDITTEXT        IDC_EDIT2,54,43,50,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT3,118,43,50,14,ES_AUTOHSCROLL
+    LTEXT           "Area A:",IDC_STATIC,19,70,31,12
+    LTEXT           "Area B:",IDC_STATIC,19,95,31,12
+    LTEXT           "Area C:",IDC_STATIC,19,121,31,12
+    LTEXT           "Area D:",IDC_STATIC,19,149,31,12
+    EDITTEXT        IDC_EDIT4,66,68,103,15,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT5,66,93,103,15,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT6,66,119,103,15,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT7,66,146,103,15,ES_AUTOHSCROLL
+    PUSHBUTTON      "Begin",IDC_BUTTON_BEGIN,145,174,36,11
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// DESIGNINFO
+//
+
+#ifdef APSTUDIO_INVOKED
+GUIDELINES DESIGNINFO DISCARDABLE 
+BEGIN
+    IDD_DIALOG_MAIN, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 190
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 197
+    END
+END
+#endif    // APSTUDIO_INVOKED
+
+#endif    // Chinese (中国) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+

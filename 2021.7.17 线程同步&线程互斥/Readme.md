@@ -72,4 +72,4 @@ demo.exe如图所示
 
 
 
-![eat letter](eat letter.gif)
+![eat letter](eat_letter.gif)

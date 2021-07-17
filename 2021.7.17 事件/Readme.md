@@ -50,4 +50,4 @@
 
 
 
-![event togeter](event togeter.gif)
+![event togeter](event_togeter.gif)

@@ -2,7 +2,7 @@
 
 
 
-使用`CREATE_SUSPENDED`挂起进程，再使用`ResumeThread`恢复执行
+使用`CREATE_SUSPENDED`挂起进程，再使用`ResumeThread`恢复进程
 
 
 
